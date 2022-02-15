@@ -1308,3 +1308,44 @@
 2021-02-07 18:16:57.6369 Info Adding target FileTarget(Name=allfile)
 2021-02-07 18:16:57.6528 Info Adding target FileTarget(Name=ownFile-web)
 2021-02-07 18:16:57.8126 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/wes/projects/library-management-system/LightLib.Web/bin/Debug/net5.0/nlog.config
+2022-02-07 18:14:16.8476 Info Message Template Auto Format enabled
+2022-02-07 18:14:16.8711 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-07 18:14:16.9175 Info Adding target FileTarget(Name=allfile)
+2022-02-07 18:14:16.9346 Info Adding target FileTarget(Name=ownFile-web)
+2022-02-07 18:14:16.9813 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ashayuni\Documents\lightlib-lms\LightLib.Web\bin\Debug\net5.0\nlog.config
+2022-02-07 18:21:39.1583 Info Message Template Auto Format enabled
+2022-02-07 18:21:39.1908 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-07 18:21:39.2390 Info Adding target FileTarget(Name=allfile)
+2022-02-07 18:21:39.2595 Info Adding target FileTarget(Name=ownFile-web)
+2022-02-07 18:21:39.3120 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ashayuni\Documents\lightlib-lms\LightLib.Web\bin\Debug\net5.0\nlog.config
+2022-02-07 18:28:15.5990 Info Message Template Auto Format enabled
+2022-02-07 18:28:15.6254 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-07 18:28:15.6764 Info Adding target FileTarget(Name=allfile)
+2022-02-07 18:28:15.6967 Info Adding target FileTarget(Name=ownFile-web)
+2022-02-07 18:28:15.7514 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ashayuni\Documents\lightlib-lms\LightLib.Web\bin\Debug\net5.0\nlog.config
+2022-02-07 18:28:57.9477 Info AppDomain Shutting down. Logger closing...
+2022-02-07 18:28:57.9627 Info Logger has been shut down.
+2022-02-07 18:30:58.7821 Info Message Template Auto Format enabled
+2022-02-07 18:30:58.7948 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-07 18:30:58.8395 Info Adding target FileTarget(Name=allfile)
+2022-02-07 18:30:58.8395 Info Adding target FileTarget(Name=ownFile-web)
+2022-02-07 18:30:58.8773 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ashayuni\Documents\lightlib-lms\LightLib.Web\bin\Debug\net5.0\nlog.config
+2022-02-07 18:33:48.8618 Info Message Template Auto Format enabled
+2022-02-07 18:33:48.8671 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-07 18:33:48.8980 Info Adding target FileTarget(Name=allfile)
+2022-02-07 18:33:48.8993 Info Adding target FileTarget(Name=ownFile-web)
+2022-02-07 18:33:48.8993 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ashayuni\Documents\lightlib-lms\LightLib.Web\bin\Debug\net5.0\NLog.config
+2022-02-07 18:33:48.9216 Info Configuration initialized.
+2022-02-07 18:33:48.9216 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.7.12472. Product version: 4.7.7+3755739d37c1ec92bac4de2cefad68a0f5ea7ec1. GlobalAssemblyCache: False
+2022-02-07 18:33:50.7898 Info AppDomain Shutting down. Logger closing...
+2022-02-07 18:33:50.8131 Info Logger has been shut down.
+2022-02-07 18:34:10.7921 Info Message Template Auto Format enabled
+2022-02-07 18:34:10.8082 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-07 18:34:10.8533 Info Adding target FileTarget(Name=allfile)
+2022-02-07 18:34:10.8533 Info Adding target FileTarget(Name=ownFile-web)
+2022-02-07 18:34:10.8951 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ashayuni\Documents\lightlib-lms\LightLib.Web\bin\Debug\net5.0\nlog.config
+2022-02-14 18:03:32.3873 Info Message Template Auto Format enabled
+2022-02-14 18:03:32.4401 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-14 18:03:32.5207 Info Adding target FileTarget(Name=allfile)
+2022-02-14 18:03:32.5587 Info Adding target FileTarget(Name=ownFile-web)
+2022-02-14 18:03:32.6321 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ashayuni\Documents\lightlib-lms\LightLib.Web\bin\Debug\net5.0\nlog.config
